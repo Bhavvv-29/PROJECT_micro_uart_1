@@ -8,7 +8,7 @@ module u_baud #(parameter baud=2400 ,parameter xtal_clk= 50000000  ) (clk , baud
 	 localparam tx_max= (xtal_clk/(baud* 16 * 2));
 	 localparam tx_count= $clog2(tx_max);
 
-	reg [tx_count:0]count = 0;
+	reg [tx_count-1:0]count = 0;
 
 always @(posedge clk or negedge sys_rst_l) 
 begin 

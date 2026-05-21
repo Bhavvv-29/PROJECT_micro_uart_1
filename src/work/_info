@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/fetools/work_area/frontend/Batch_11/Bhavani/project3/PROJECT_micro_uart_1/src
+vu_baud
+Z1 !s110 1779379118
+!i10b 1
+!s100 :I8RQ_Y]znkF6>90MdF6;0
+Ij>k<HEzWIOB[Hz^VGKL5O0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1779347196
+8u_baud.v
+Fu_baud.v
+L0 3
+Z3 OE;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1779379118.000000
+Z5 !s107 u_baud.v|uart.v|u_rec.v|u_xmit.v|
+Z6 !s90 u_xmit.v|u_rec.v|uart.v|u_baud.v|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vu_rec
+R1
+!i10b 1
+!s100 <gCeHIGGLm:9MBSaj9n612
+IAV[1gjCG:=lTRALTNcV@]0
+R2
+R0
+w1779378931
+8u_rec.v
+Fu_rec.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+vu_xmit
+R1
+!i10b 1
+!s100 05zNC14;Gi^S>Bi0SF3Fl1
+I^bF?U9_S_53kUg1=4MYAE1
+R2
+R0
+w1779379024
+8u_xmit.v
+Fu_xmit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+vuart
+!s110 1779379216
+!i10b 1
+!s100 9cRm?AUHWMV^eEkM2DED:2
+IJ<;4^m^^OEG5aA?:MCd3`3
+R2
+R0
+w1779379213
+8uart.v
+Fuart.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1779379216.000000
+!s107 uart.v|
+!s90 uart.v|
+!i113 0
+R7
+R8
